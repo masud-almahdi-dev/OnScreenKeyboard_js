@@ -1,0 +1,22 @@
+#display{
+    border: 1px solid black;
+    font-size: large;
+    margin: 1rem;
+    padding: 1rem;
+    min-height: 20vh;
+    max-height: 60vh;
+}
+button{
+    margin: 0.2vw;
+    font-size: large;
+    padding: 1vw;
+}
+button:hover{
+    filter: invert(1);
+}
+#SPACE{
+    padding: 2vw 15vw;
+}
+#SHIFT{
+    padding: 1vw 1.7vw;
+}
